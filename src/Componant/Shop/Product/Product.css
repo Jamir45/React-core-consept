@@ -1,0 +1,11 @@
+.productImg{
+    width: 30%;
+}
+.productDetails{
+    width: 70%;
+    padding: 30px;
+}
+.Border{
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
